@@ -1,0 +1,4 @@
+day la file goc de copy
+Noi dung
+Module 2 bai 16 IO lam viec voi file text
+end.
